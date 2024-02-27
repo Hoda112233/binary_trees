@@ -1,0 +1,3 @@
+heapq.heappush(heap, n)
+root = heapq.heappop(heap)
+found = value in heap
